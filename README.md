@@ -1,4 +1,4 @@
-# Repository Q&A with RAG
+# Q&A with RAG
 
 This project uses a Retrieval-Augmented Generation (RAG) system to answer questions about a local code repository.
 
@@ -22,4 +22,5 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install the required packages
 pip install -r requirements.txt
+
 
